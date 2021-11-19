@@ -76,3 +76,14 @@ select {
 .hello {
   font-size: 20rem;
 }
+
+.wish a {
+  font-size: 1.3em;
+  text-decoration: underline;
+  color: chocolate;
+}
+
+.wish h1 {
+  font-size: 2.5em;
+}
+
